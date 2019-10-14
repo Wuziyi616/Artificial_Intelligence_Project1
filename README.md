@@ -4,7 +4,11 @@ This repo is the first project assignment for 2019 Autumn class: An Introduction
 <img src="https://github.com/Wuziyi616/Artificial_Intelligence_Project1/blob/master/images/UI.png" width=600 alt="UI">  
   
 ## Quick Start
-To give you a quick start to this project, I advise you to directly run the .exe file and play the game by yourself! I bet it will be funny. So now let me first introduce you to the UI of the game.  
+To give you a quick start to this project, I advise you to directly run the code and play the game by yourself! I bet it will be funny. The usage is quite easy by:  
+  
+    $ python3 tangram_solver.py  
+  
+So now let me first introduce you to the UI of the game.  
   
 The functions of the controls are described below.
 - You can change the type of the puzzle (normal 7 elements, interesting 13 elements and novel any input) under Game Mode
